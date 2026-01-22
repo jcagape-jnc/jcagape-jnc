@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="Banner.png" alt="Josh Cagape Banner" width="100%" />
+</p>
+
+<hr/>
+
+
+
 # 💫 About Me:
 🔭 I’m currently working on studying<br>👯 I’m looking to collaborate on relationships<br>🤝 I’m looking for help with my studies<br>🌱 I’m currently learning at ateneo de davao universities<br>💬 Ask me about studies<br>⚡ Fun fact about me is i love dogs
 
